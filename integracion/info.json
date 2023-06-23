@@ -1,0 +1,16 @@
+ {
+  "fields": {
+    "project": {
+      "id": "10001",
+      "key": "PX"
+    },
+    "summary": "Taurus (JMeter) performance results",
+    "description": "ERROR. NO SE HA DETECTADO COMPONENTE",
+    "issuetype": {
+      "name": "Test Execution"
+    }
+  },
+  "xrayFields": {
+    "testPlanKey": "PX-2"
+  }
+}
