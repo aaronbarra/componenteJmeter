@@ -5,7 +5,7 @@ execution:
   scenario: tsoft-test
 scenarios:
   tsoft-test:
-      script: ./blazemeter/Blazedemo12312.jmx
+      script: ./blazemeter/Blazedemo.jmx
 reporting:
 - module: console
 - module: final-stats
