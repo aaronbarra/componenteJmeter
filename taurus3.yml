@@ -11,7 +11,7 @@ reporting:
   - module: final-stats
     summary: true
     percentiles: true
-    failed-labels: false   
+    failed-labels: false
     test-duration: true
     dump-csv: perf_result.csv
   - module: junit-xml
@@ -20,6 +20,5 @@ reporting:
   - module: pdf
     filename: informe.pdf
     reportType: pdf
-modules:
- blazemeter:
-    token: 80803e6885e484e3f13aad02:39a73b81a9977102913aa6fbaa545f6c4d903e36e7a4f78936fa4e0d9cb424faa6a8a7a5
+    blazemeter:
+      token: 80803e6885e484e3f13aad02:39a73b81a9977102913aa6fbaa545f6c4d903e36e7a4f78936fa4e0d9cb424faa6a8a7a5
